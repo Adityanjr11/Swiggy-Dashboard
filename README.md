@@ -1,66 +1,36 @@
-📊 Sales Performance Dashboard (Excel)
-📌 Project Overview
+# Sales Performance Dashboard (Excel)
 
-This project presents an interactive Excel-based sales dashboard designed to analyze business performance across time, geography, and customer preferences. The dashboard enables stakeholders to track key sales metrics, identify trends, and derive actionable insights to support data-driven decision-making.
+Project Overview
+This project is an interactive Excel-based sales dashboard designed to analyze business performance across time, geography, and customer preferences. The dashboard helps stakeholders track key metrics, identify trends, and make data-driven decisions.
 
-The analysis focuses on sales performance, order behavior, customer ratings, and regional demand patterns, using dynamic visuals and slicers for seamless exploration.
+The analysis focuses on sales performance, order behavior, customer ratings, and regional demand patterns using dynamic visuals and slicers.
 
-🎯 Objectives
+Objectives
+- Track overall sales performance using key KPIs
+- Analyze monthly and daily sales trends
+- Compare Veg vs Non-Veg sales contribution
+- Identify top-performing states and cities
+- Evaluate customer satisfaction using ratings
 
-The primary objectives of this project are to:
+Tools and Technologies
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- KPI Cards
+- Slicers
+- Map Charts
 
-Monitor overall sales performance using key KPIs
+Key Features
+- KPI cards for Total Sales, Total Orders, Average Order Value, Average Rating, and Rating Count
+- Line chart for monthly sales trends
+- Donut chart for Veg vs Non-Veg sales comparison
+- Map chart showing sales distribution by state
+- Bar chart for daily sales trends
+- Bar chart for top 5 cities by sales
+- Monthly slicer for filtering
 
-Analyze monthly and daily sales trends
+Dataset
+The dataset includes order date, sales amount, city, state, product category (Veg / Non-Veg), and customer ratings. Data cleaning and aggregation were performed directly in Excel.
 
-Compare Veg vs Non-Veg sales contribution
-
-Identify top-performing states and cities
-
-Evaluate customer satisfaction through ratings
-
-🛠 Tools & Technologies
-
-Microsoft Excel
-
-Pivot Tables & Pivot Charts
-
-KPI Cards
-
-Slicers for interactivity
-
-Map Charts for geographic analysis
-
-📊 Key Features
-
-Interactive KPI cards displaying Total Sales, Total Orders, Average Order Value, Average Rating, and Rating Count
-
-Monthly sales trend analysis using line charts
-
-Category-wise comparison using Veg vs Non-Veg donut chart
-
-State-level sales visualization through map charts
-
-City-level performance analysis highlighting Top 5 Cities by Sales
-
-Dynamic filtering using monthly slicers
-
-📂 Dataset
-
-The dataset contains order-level sales data including:
-
-Order date
-
-Sales amount
-
-City and state
-
-Product category (Veg / Non-Veg)
-
-Customer ratings
-
-Data cleaning and aggregation were performed within Excel using structured tables and pivot operations.
-
-📈 Outcome
-
-This dashboard provides a consolidated view of business performance, enabling quick identification of revenue drivers, demand patterns, and customer satisfaction trends. It is suitable for business analysts, operations teams, and decision-makers seeking actionable insights through a simple yet powerful Excel-based solution.
+Outcome
+This dashboard provides a consolidated view of business performance and helps identify revenue drivers, demand patterns, and customer satisfaction trends. It enables stakeholders to make informed decisions using interactive Excel visuals.
